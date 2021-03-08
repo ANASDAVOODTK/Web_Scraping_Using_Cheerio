@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "optimism": "^0.14.0",
+    "optimist": "^0.6.1",
+    "prompt": "^1.1.0",
+    "puppeteer": "^8.0.0",
+    "puppeteer-extra-plugin-stealth": "^2.7.5",
+    "request": "^2.88.2",
+    "requests": "^0.3.0",
+    "xpath": "0.0.32"
+  }
+}
